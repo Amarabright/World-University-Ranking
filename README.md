@@ -83,4 +83,29 @@ It has the following attributes or fields labelled as "columns":
  ---
  
  ## Data Modelling
- The data is an 
+ The data is an Excel sheet which had all the columns and as such did not require modelling.
+ 
+ ---
+ ## Data Analysis and Visualization
+ - Several Data Analysis Expression were created to enable me dig deep.
+ - The insights were put into different visualization
+ - It resulted to a report compriing of 3 pages:
+    - -Univeristy Page
+    - -Internatonal Students
+    - -Research and Faculty-ratio
+  The report can be interacted with on this [link](
+  
+  ---
+  ## Features of the report.
+  You can go through by clicking on the buttons on left bar, each button will take you to the page and you will see the visuals.
+  The University Page
+  ![](UniPage.jpg)
+  The International Student's Page
+  ![](UniIntstudents.jpg)
+  The Research and Faculty-Ratio Page
+  ![](UniResearch.jpg)
+  
+  ## Analysis
+  
+  
+ 
