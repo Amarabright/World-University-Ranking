@@ -93,7 +93,9 @@ It has the following attributes or fields labelled as "columns":
     - -Univeristy Page
     - -Internatonal Students
     - -Research and Faculty-ratio
-  The report can be interacted with on this [link](
+    
+    
+  The report can be interacted with on this [link](https://app.powerbi.com/view?r=eyJrIjoiYjE5YWI1ZDQtNDVjZS00ZGIxLWE5YTYtZjBkYzIwYWJhNTI2IiwidCI6IjM0ODhhMWU5LTQwNmYtNGMzNS04Yjc0LTkyOGUzNDM5Yzc1MCJ9)
   
   ---
   ## Features of the report.
