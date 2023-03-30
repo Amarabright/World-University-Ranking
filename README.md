@@ -44,6 +44,9 @@ For this project, carry out an Exploratory Data Analysis to see what influences 
  - tooltips,
  - buttons and 
  - Data Visualization
+ 
+Aside carrying out this project on PowerBI. I had already done in EDA on Python. the script is also attached in this repository. 
+You may want to check it out here 
 ---
 
 ## Data Source:
@@ -107,7 +110,15 @@ It has the following attributes or fields labelled as "columns":
   The Research and Faculty-Ratio Page
   ![](UniResearch.jpg)
   
-  ## Analysis
+  ## Analysis and Insights
   
-  
+  1. There is a yearly trend in Universities, meaning that each year the number of Universities increases. 
+  2. London is the city with the highest number of listed Universities followed by Seoul.  Howi, International students prefer USA as first study destination, UK as second and  3 countries Australia as the 3 country of choice.
+  4. The students prefer Public Universities with Very High research output.
+  5. There is a positive trend in the number of international students each year as the urge for study abroad increases per year.
+  6. Student-faculty ratio is of great concern to the students as they prefer universities with lower ratio. They tend to believe that the lesser the ratio the more attention they would get from faculty members.
+  7. Europe is the continent with the highest jumber of listed universities followed by Asia. In further drilling, US had the highest number of universities as choice for international education followed by UK.
+
+
+
  
