@@ -7,7 +7,7 @@ This is an analysis to know the factors that influences international schooling.
 </p>
 
 ## Introduction
-At some point in my life, I craved an international education. I went through various websites in order to make informed decision. I finally applied to several schools, got admissions but somehow  couldnt afford the fees, hence I didnt go. Dno't feel bad, it's not uncommon :sweat_smile:
+At some point in my life, I craved an international education. I went through various websites in order to make informed decision. I finally applied to several schools, got admissions but somehow  couldn't afford the fees, hence I didn't go. Don't feel bad, it's not uncommon :sweat_smile:
 
 If you have funds and you are ready to make such an interesting move, then this project should help you. 
 I belong to a community called ["She Code Africa"](https://shecodeafrica.org/), we decided to carry out some projects to show our skills and improve our learning. Amongst the listed projects, I chose this probably becasue of my previous expereience. 
@@ -45,8 +45,8 @@ For this project, carry out an Exploratory Data Analysis to see what influences 
  - buttons and 
  - Data Visualization
  
-Aside carrying out this project on PowerBI. I had already done in EDA on Python. the script is also attached in this repository. 
-You may want to check it out here 
+### Aside carrying out this project on PowerBI. I had already done the EDA on Python. the script is also attached in this repository. 
+You may want to check it out [here](https://github.com/Amarabright/World-University-Ranking/blob/main/World%20University%20Ranking.ipynb)
 ---
 
 ## Data Source:
@@ -113,11 +113,11 @@ It has the following attributes or fields labelled as "columns":
   ## Analysis and Insights
   
   1. There is a yearly trend in Universities, meaning that each year the number of Universities increases. 
-  2. London is the city with the highest number of listed Universities followed by Seoul.  Howi, International students prefer USA as first study destination, UK as second and  3 countries Australia as the 3 country of choice.
-  4. The students prefer Public Universities with Very High research output.
-  5. There is a positive trend in the number of international students each year as the urge for study abroad increases per year.
-  6. Student-faculty ratio is of great concern to the students as they prefer universities with lower ratio. They tend to believe that the lesser the ratio the more attention they would get from faculty members.
-  7. Europe is the continent with the highest jumber of listed universities followed by Asia. In further drilling, US had the highest number of universities as choice for international education followed by UK.
+  2. London is the city with the highest number of listed Universities followed by Seoul.  However, International students prefer USA as first study destination, UK as second and Australia as the 3rd country of choice.
+  3. The students prefer Public Universities with Very High research output.
+  4. There is a positive trend in the number of international students each year as the urge and preparations for study abroad increases per year.
+  5. Student-faculty ratio is of great concern to the students as they prefer universities with lower ratio. They tend to believe that the lesser the ratio the more attention they would get from faculty members.
+  6. Europe is the continent with the highest number of listed universities followed by Asia. In further drilling, US had the highest number of universities as choice for international education followed by UK.
 
 
 
