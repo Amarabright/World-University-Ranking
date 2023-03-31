@@ -45,8 +45,7 @@ For this project, carry out an Exploratory Data Analysis to see what influences 
  - buttons and 
  - Data Visualization
  
-### Aside carrying out this project on PowerBI. I had already done the EDA on Python. the script is also attached in this repository. 
-You may want to check it out [here](https://github.com/Amarabright/World-University-Ranking/blob/main/World%20University%20Ranking.ipynb)
+### Aside carrying out this project on PowerBI. I also did an Exploratory Data Analysis using Python programming language. The script is also attached in this repository. You may want to check it out [here](https://github.com/Amarabright/World-University-Ranking/blob/main/World%20University%20Ranking.ipynb)
 ---
 
 ## Data Source:
@@ -99,14 +98,19 @@ It has the following attributes or fields labelled as "columns":
     
     
   The report can be interacted with on this [link](https://app.powerbi.com/view?r=eyJrIjoiYjE5YWI1ZDQtNDVjZS00ZGIxLWE5YTYtZjBkYzIwYWJhNTI2IiwidCI6IjM0ODhhMWU5LTQwNmYtNGMzNS04Yjc0LTkyOGUzNDM5Yzc1MCJ9)
+   
   
-  ---
   ## Features of the report.
   You can go through by clicking on the buttons on left bar, each button will take you to the page and you will see the visuals.
-  The University Page
-  ![](UniPage.jpg)
+ 
+ The University Page
+  ![](UniPage.png)
+  
+  
   The International Student's Page
   ![](UniIntstudents.jpg)
+  
+  
   The Research and Faculty-Ratio Page
   ![](UniResearch.jpg)
   
